@@ -8,7 +8,8 @@ sau khi chỉnh sửa lại thành định dạng BMP thì mình được 1 ản
 ![image](https://github.com/user-attachments/assets/05780ba1-6728-475f-acd2-b7162374bd23)
 cảm giác ảnh chưa hoàn chỉnh nên mình cố điều chỉnh lại kích thước của ảnh
 
-![image](https://github.com/user-attachments/assets/387b56ec-4349-4b79-a719-625f7d8cf95b)
+![image](https://github.com/user-attachments/assets/47ffac39-7d57-43ed-aa8d-8ff3c22252f9)
+
 
 flag : picoCTF{qu1t3_a_v13W_2020}
 
